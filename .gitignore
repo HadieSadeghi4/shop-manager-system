@@ -1,0 +1,11 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.vscode/
+
+# Others
+*.env
