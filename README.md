@@ -1,6 +1,5 @@
 # 🛒 ShopManager System
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/HadieSadeghi4/shop-manager-system)
 
 A simple project for **store management** built with **C#** and **Microsoft Access**.  
