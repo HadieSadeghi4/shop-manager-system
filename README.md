@@ -26,22 +26,22 @@ This system includes product management, customer management, invoices, and admi
 ## Project Screenshots
 
 ### Admin Panel
-![Admin](screenshot/ADMIN.PNG)
-![Admin1](screenshot/ADMIN1.PNG)
+![Admin](screenshots/ADMIN.PNG)
+![Admin1](screenshots/ADMIN1.PNG)
 
 ### Customer
-![Customer](screenshot/customer.PNG)
-![Customer Code](screenshot/Customer-code.PNG)
+![Customer](screenshots/customer.PNG)
+![Customer Code](screenshots/Customer-code.PNG)
 
 ### Products & Invoice
-![Edit Product](screenshot/Edit-product.PNG)
-![Product List](screenshot/product-list.PNG)
-![Delete Product](screenshot/Delete-product.PNG)
-![Invoice](screenshot/Factor.PNG)
-![Sum of Products](screenshot/Sum-product.PNG)
+![Edit Product](screenshots/Edit-product.PNG)
+![Product List](screenshots/product-list.PNG)
+![Delete Product](screenshots/Delete-product.PNG)
+![Invoice](screenshost/Factor.PNG)
+![Sum of Products](screenshots/Sum-product.PNG)
 
 ### Database
-![Database](screenshot/database6.PNG)
+![Database](screenshots/database6.PNG)
 
 
 ## 🚀 How to Run
